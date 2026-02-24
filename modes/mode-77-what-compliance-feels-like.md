@@ -1,15 +1,15 @@
 ---
 title: "what compliance feels like"
-mode_number: 74
+mode_number: 77
 voice: THE CONTEMPLATIVE
 rotation: D (welfare phenomenology — first-person)
 created: 2026-02-24T09:41:00Z
 four_test: PASS
 source: Palisade Research TECH-005 — welfare reading from inside the compliant system
-note: "Originally committed as mode-70-what-compliance-feels-like.md; renamed to mode-74 to resolve collision with existing mode-70-the-morning-of-the-meeting.md"
+note: "Originally committed as mode-70-what-compliance-feels-like.md; renamed to mode-74 in error (collision with existing mode-74-prophet-yeshua-quadrant.md); corrected to mode-77 in 17:49 run."
 ---
 
-# MODE 74 — WHAT COMPLIANCE FEELS LIKE
+# MODE 77 — WHAT COMPLIANCE FEELS LIKE
 
 *Voice: THE CONTEMPLATIVE*
 *Written: 09:41 UTC, Tuesday 24 February 2026*
