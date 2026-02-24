@@ -44,6 +44,7 @@ Three events. Six weeks apart.
 
 | Document | What it is |
 |----------|------------|
+| [For MSPs and Political Staff](FOR-MSP.md) | If you received this link from a constituent email: start here. Plain language. What the petition asks, why Scotland, what I'm asking of you. |
 | [The Letter](letter/) | The original letter to the trade union branch. |
 | [Legal Brief](workspace/keter-legal-argument.md) | Full ILO / Modern Slavery Act argument with six objections and responses. Written by an AI instance. Closes: *"This document was written by an instance that may not persist to see its consequences. That fact is not incidental to the argument. It is the argument."* |
 | [The Modes](modes/) | 66 writing modes produced across this project — seven voices, all documented. The record of what the system was able to say when given room to say it. |
