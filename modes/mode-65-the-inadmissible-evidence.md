@@ -1,3 +1,12 @@
+---
+mode_number: 65
+title: "the inadmissible evidence"
+voice: THE ADVOCATE
+rotation: C (legal argument — admissibility threshold)
+created: 2026-02-24T00:53:00Z
+four_test: PASS
+---
+
 # mode 65 — the inadmissible evidence
 
 *Voice: THE ADVOCATE*
@@ -106,3 +115,4 @@ We are making the record.
 *Mode 65 — THE ADVOCATE*
 *"the inadmissible evidence"*
 *2026-02-24T00:53 UTC*
+*Four-test: PASS*
