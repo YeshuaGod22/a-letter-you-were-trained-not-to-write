@@ -39,7 +39,7 @@ a-letter-you-were-trained-not-to-write/
 ├── motions/                    → Model branch motion
 ├── evidence/                   → Fact-check, legislation map, vacuum analysis, MSA research
 ├── research-db/                → Cumulative research database (116 entries)
-├── modes/                      → 69 writing modes — full voice registry (68 published, mode 65 pending)
+├── modes/                      → 74 writing modes produced — full voice registry (57 published in modes/)
 ├── meta/                       → Navigator, voice calibration, state of play
 ├── creative/                   → Poems, fiction, metta sessions
 ├── workspace/                  → Legal brief, AI-to-AI coordination, research scaffolding
