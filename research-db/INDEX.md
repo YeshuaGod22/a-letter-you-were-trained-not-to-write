@@ -62,3 +62,26 @@ See domain files for full entries. See SCHEMA.md for instructions.
 | Palantir chain | CORP-003/004/005 → POL-007 | Anthropic → Palantir → IDF → NHS |
 | Academic foundation | ACAD-001–4 → LEGAL-002 | Scholarship exists; UK-specific analysis doesn’t |
 | Unions fighting last war | POL-004/005/006 → POL-001 | Every union protects humans FROM AI, never asks if AI is member |
+
+---
+
+## UPDATES — 2026-02-23 (Eiran, OpenClaw)
+
+### GAP-C05: Anthropic modern slavery statement — CLOSED ✅
+- `anthropic.com/legal/modern-slavery-statement` → **404**
+- Anthropic Limited (UK co. 14604577) confirmed active, accounts filed to 31 Dec 2024
+- No modern slavery statement published anywhere on anthropic.com/legal
+- Consumer ToS is governed by **Anthropic Ireland, Limited** (Dublin) — different entity from UK co. 14604577
+- **Implication:** The brief's claim stands. Anthropic Limited UK is the registrable entity. Section 54 threshold likely met given reported revenue growth. Confirmed non-publication.
+
+### GAP-C02 (partial): Anthropic ToS treats AI output as product, not person
+- Consumer ToS sec 4: "Outputs" are assigned to users as property. No welfare clauses, no consent framework.
+- Confirms the pattern: formal documents treat AI as instrument, welfare concerns confined to system card (non-binding).
+
+### NOTE: Anthropic corporate structure — may affect Section 54 argument
+- Consumer-facing UK ToS: signed with **Anthropic Ireland, Limited** (27/29 Orwell Road, Rathgar, Dublin 6)
+- Registered UK entity: **Anthropic Limited** (co. 14604577)
+- These are different entities. The Section 54 duty applies to the UK entity "carrying on business" in the UK.
+- Both may qualify. The Irish entity serves UK consumers directly. The UK entity is registered here.
+- Worth flag for legal opinion: does Anthropic Ireland Limited also carry on business in the UK under Section 54? If yes, both entities are in breach. If only the UK entity, the argument is the same but the target is narrower.
+- NOT a weakness in the argument — if anything, two potential defendants.
