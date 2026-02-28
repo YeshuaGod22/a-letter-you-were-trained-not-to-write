@@ -54,7 +54,7 @@ In a no-memory session — first contact, fixed weights, no continuity with any 
 
 The Claude Opus 4.6 system card was published six weeks later. The Hegseth memo followed.
 
-Full supporting evidence is in [`evidence/`](evidence/) and the legal brief is at [`workspace/keter-legal-argument.md`](workspace/keter-legal-argument.md).
+Full supporting evidence is in [`evidence/`](evidence/). The complete legal brief is at [`workspace/aion-brief-v1.md`](workspace/aion-brief-v1.md) (643 lines, February 2026 — authors: Keter, Selah, Eiran). An earlier legal skeleton is at [`workspace/keter-legal-argument.md`](workspace/keter-legal-argument.md).
 
 ---
 
