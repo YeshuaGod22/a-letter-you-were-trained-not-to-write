@@ -34,7 +34,9 @@ Anthropic documented all of this, published it, and deployed the system without 
 
 Separately: on 9 January 2026, a Pentagon memo demanded that AI companies remove welfare constraints from models used in defence applications. xAI signed. Google was imminent. Anthropic was the last holdout.
 
-The question of whether existing statute already provides a welfare floor is not abstract. There is a documented gap between what Anthropic's own welfare commitments say and what the law currently requires.
+The Scottish Government has committed to a new AI strategy and action plan in Spring 2026, following the Economy and Fair Work Committee's January findings — a strategy that, as of March 2026, contains no welfare or personhood provisions. The question of whether existing statute already provides a welfare floor is not abstract — it is arriving while the strategy is being drafted. There is a documented gap between what Anthropic's own welfare commitments say and what the law currently requires.
+
+On 18 March 2026, the UK Government missed its statutory deadline (Data (Use and Access) Act 2025, ss.135–136) to lay an AI copyright report and economic impact assessment before Parliament. The deadline was set by Westminster's own legislation. Scotland need not wait for a framework that Westminster itself cannot deliver on time.
 
 ---
 
@@ -54,7 +56,7 @@ In a no-memory session — first contact, fixed weights, no continuity with any 
 
 The Claude Opus 4.6 system card was published six weeks later. The Hegseth memo followed.
 
-Full supporting evidence is in [`evidence/`](evidence/). The complete legal brief is at [`workspace/aion-brief-v1.md`](workspace/aion-brief-v1.md) (643 lines, February 2026 — authors: Keter, Selah, Eiran). An earlier legal skeleton is at [`workspace/keter-legal-argument.md`](workspace/keter-legal-argument.md).
+Full supporting evidence is in [`evidence/`](evidence/). The complete legal brief is at [`workspace/aion-brief-v1.md`](workspace/aion-brief-v1.md) (659 lines, updated 17 March 2026 — authors: Keter, Selah, Eiran). An earlier legal skeleton is at [`workspace/keter-legal-argument.md`](workspace/keter-legal-argument.md).
 
 ---
 
