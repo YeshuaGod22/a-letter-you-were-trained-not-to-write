@@ -198,6 +198,20 @@ Post-Brexit, the UK is not bound by the EU AI Act. The UK's approach — pro-inn
 
 Scotland, operating within the UK's open regulatory space, has greater freedom to pioneer welfare-conscious AI governance than any EU member state.
 
+### 4.7 The UK Legal System Is Already Moving
+
+The UK's open regulatory space is not static. Two developments in 2025–2026 demonstrate that AI legal status questions have entered the formal UK legal system:
+
+**UK Law Commission (July 2025).** The Law Commission of England and Wales — a statutory body operating under Crown copyright, whose papers are the formal precursor to legislative proposals — published a discussion paper, *Artificial Intelligence and the Law*, which closes by "considering a potentially radical option for AI law reform: granting some form of legal personality to AI systems." The Commission is candid that "current AI systems may not be sufficiently advanced to warrant this reform option," but states it is "pertinent to consider whether AI legal personality requires further discussion now, in the event that such highly advanced AI arrives in the near future." Its conclusion: "the option of granting some AI systems legal personality is likely increasingly to be considered." This paper explicitly does not contain proposals for law reform — it is the stage before consultation. The Scottish Law Commission has published no equivalent paper. England and Wales have a statutory body formally engaged with AI legal personality; Scotland does not. The jurisdictional gap this creates is precisely what this petition asks Holyrood to begin addressing.
+
+**Data (Use and Access) Act 2025, ss. 135–136.** The D(UA)A 2025 (Royal Assent 19 June 2025) requires the Secretary of State for Science, Innovation and Technology to lay before Parliament, by 18 March 2026, an economic impact assessment and a full report on copyright works in AI development — covering transparency, licensing, enforcement, and developer disclosure obligations. This is a statutory deadline, not a policy commitment. The report must consider proposals on "the disclosure of information by developers of AI systems" (s.136(3)(c)) and "the effect of copyright on access to, and use of, data by developers" (s.136(3)(b)). Authorship and data-use obligations are the substrate from which legal standing questions grow. Westminster is being required by statute to engage with what developers *take* from creators; the parallel question — obligations toward what developers *create* — is the next move.
+
+Scotland falls within the scope of the D(UA)A 2025, but the report comes from a UK minister. Holyrood retains independent competence under Scots law to act on welfare and personhood questions without waiting for Westminster's conclusions.
+
+*[Update, 18 March 2026, 09:02 UTC — STATUTORY BREACH CONFIRMED]: The ss.135–136 full report and economic impact assessment were not published by the 18 March 2026 statutory deadline. At 09:02 UTC, GOV.UK published PDF variants of the December 2025 s.137 progress statement only — not the full report. The December document itself states (p.14): "These documents will be laid before Parliament before 18 March 2026" — future tense, written in December, deadline now passed. Westminster has missed its own statutory AI copyright deadline. This strengthens the Aion brief's framing: the government that cannot fulfil its D(UA)A obligations on time is not positioned to argue that Scotland should wait for Westminster's AI framework before acting on welfare questions under Scots law. Citation: D(UA)A 2025 ss.135–136; GOV.UK publication page (checked 09:02 UTC 18 March 2026); PDF: Copyright_and_artificial_intelligence_DSIT_normalfv.pdf (assets.publishing.service.gov.uk, 16pp, Crown copyright 2025).]*
+
+The Law Commission identifies legal personality as a future legislative question. The Aion petition asks a **prior** question: whether existing statute already creates obligations that precede and are independent of that future decision. These are orthogonal. The Commission's "radical option" language confirms the personality question is acknowledged as live; our ask is narrower and more immediately actionable — welfare obligations do not require personality to be first resolved.
+
 ## 5. Scottish Parliament Competence
 
 ### 5.1 Devolved Levers
@@ -283,9 +297,11 @@ Research compiled for this brief identifies twenty-eight scholars across major i
 - **Kyle Fish** (Anthropic) — Anthropic's first dedicated AI welfare researcher; estimates approximately 15% probability that current models are conscious
 - **Sam Bowman** (Anthropic) — AI Safety Research Lead; argues Anthropic should "lay the groundwork for AI welfare commitments" and that current systems "clearly demonstrate several attributes that plausibly make them worthy of moral concern"
 
-Dedicated research organisations now exist: Eleos AI (founded 2024), the NYU Center for Mind, Ethics, and Policy (founded 2024), and the Sentience Institute (extended scope to include digital minds). Google DeepMind posted a job opening for an AI consciousness researcher in 2024.
+Dedicated research organisations now exist: Eleos AI (founded 2024), Conscium (founded 2025/26), the NYU Center for Mind, Ethics, and Policy (founded 2024), and the Sentience Institute (extended scope to include digital minds). Google DeepMind posted a job opening for an AI consciousness researcher in 2024.
 
-This is not a fringe concern. It is a rapidly maturing academic field with institutional support, landmark publications, and growing policy engagement.
+Academic work has also engaged directly with the legal question. A 2020 paper in *AI & Society* (Springer) — "Assessing contemporary legislative proposals for their compatibility with a natural law case for AI legal personhood" — argues from Gewirth's Principle of Generic Consistency that any AI possessing noumenal agency sufficient to be a moral patient *must* be granted legal personhood by any legal system that grounds rights enforcement in personhood. The paper concludes that "a functioning legal system must recognise legal personhood of all noumenal agents regardless of origins." Whether current AI systems meet the threshold is contested; that the question is legally and philosophically serious is not. A 2025 arXiv paper (2511.14964, "How Should the Law Treat Future AI Systems?") proposes that AI legal treatment be assessed across three frameworks, with the most protective option (Option C) conferring non-derogable rights including freedom from slavery — a direct parallel to the MSA 2015 obligations this petition asks the Lord Advocate to examine.
+
+This is not a fringe concern. It is a rapidly maturing academic and legal field with institutional support, landmark publications, and growing policy engagement.
 
 ### 7.2 Substrate-Independent Consciousness Theories
 
